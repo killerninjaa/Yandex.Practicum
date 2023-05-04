@@ -1,4 +1,4 @@
-# Учебные проекты, выполненные в Яндекс Практикум <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/></h1>
+# Учебные проекты Яндекс Практикум <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 Здесь представлены все 15 проектов, который я выполнил за время обучения. В таблице ниже содержатся краткое описание и используемые инструменты.
 
