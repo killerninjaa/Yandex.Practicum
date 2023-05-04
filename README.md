@@ -6,7 +6,7 @@
 
 | **Название** | **Описание** | **Инструменты** |
 |----------|----------|----------|
-| ![](https://img2.freepng.ru/20180503/aye/kisspng-emoji-fire-flame-clip-art-heater-repairman-vector-5aeaf9b9beda39.0902005815253487937817.jpg)[1. Яндекс.Музыка](https://github.com/killerninjaa/Yandex.Practicum/blob/main/Project%201.ipynb) | Исследование поведения пользователей Яндекс.Музыки в Москве и Санкт-Петербурге. Проверка гипотез с опорой на данные | Python, Pandas |
+| ![](https://img2.freepng.ru/20180406/uze/kisspng-emoji-emoticon-fire-text-messaging-sms-frie-5ac82615963ee0.0679324115230663896154.jpg)[1. Яндекс.Музыка](https://github.com/killerninjaa/Yandex.Practicum/blob/main/Project%201.ipynb) | Исследование поведения пользователей Яндекс.Музыки в Москве и Санкт-Петербурге. Проверка гипотез с опорой на данные | Python, Pandas |
 | [2. Исследование надежности заемщиков](https://github.com/killerninjaa/Yandex.Practicum/blob/main/Project%202.ipynb) | Анализ платежеспособности клиентов банка. Проверка гипотез с опорой на данные | Python, Pandas |
 | [3. Исследование объявлений о продаже квартир](https://github.com/killerninjaa/Yandex.Practicum/blob/main/Project%203.ipynb) | Определение факторов, влияющих на стоимость объектов недвижимости на основе данных Яндекс.Недвижимость. Формирование типичного объявления о продаже, поиск закономерностей с помощью визуализаций| Python, Pandas, Matplotlib |
 | [4. Определение оптимального тарифа для мобильного оператора](https://github.com/killerninjaa/Yandex.Practicum/blob/main/Project%204.ipynb) | Определение наиболее подходящего тарифа в зависимости от портрета пользователя. Статистическая проверка гипотез | Python, Pandas, Matplotlib, Seaborn, Scipy |
